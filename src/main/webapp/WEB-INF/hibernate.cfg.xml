@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+     
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="net.pearlbay.model.location.Location" />
+        <mapping class="net.pearlbay.model.location.LocationInfo" />
+        <mapping class="net.pearlbay.model.ghost.Ghost" />
+        <mapping class="net.pearlbay.model.ghost.GhostBody" />
+        <mapping class="net.pearlbay.model.ghost.GhostHistory" />
+        <mapping class="net.pearlbay.model.ghost.GhostPersonality" />
+        <mapping class="net.pearlbay.model.event.GhostEvent" />
+    	<mapping class="net.pearlbay.model.customer.Customer" />
+        <mapping class="net.pearlbay.model.hive.Hive" />
+    </session-factory>       
+</hibernate-configuration>
