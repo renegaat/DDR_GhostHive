@@ -1,16 +1,13 @@
 package net.pearlbay.model.location;
 
 import java.math.BigDecimal;
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 import net.pearlbay.model.helper.HiveColor;
 
 public class SimpleLocation {
 
-	@SuppressWarnings("unused")
 	public int id;
 	@SuppressWarnings("unused")
 	public String locationName;

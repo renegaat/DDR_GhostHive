@@ -1738,3 +1738,321 @@ java.io.IOException: Server returned HTTP response code: 400 for URL: https://ma
 11:27:39,559 DEBUG GoogleServiceBase:117 - 53.545870,9.984889--
 11:27:39,560 DEBUG GoogleServiceBase:117 - 53.545740,9.984682--
 11:27:39,562 DEBUG GoogleServiceBase:117 - 53.545610,9.984475--
+13:37:59,927 DEBUG GoogleServiceBase:38 - Entered getRoute. Startlocation : 0, Endlocation  : 0
+13:38:01,374 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5483282  9.9888224 End : 53.54846690000001 9.990170899999999
+13:38:01,375 DEBUG GoogleServiceBase:117 - 53.54835594000000,9.989092100000000--
+13:38:01,375 DEBUG GoogleServiceBase:117 - 53.54838368000000,9.989361800000000--
+13:38:01,375 DEBUG GoogleServiceBase:117 - 53.54841142000000,9.989631500000000--
+13:38:01,375 DEBUG GoogleServiceBase:117 - 53.54843916000000,9.989901200000000--
+13:38:01,375 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.54846690000001  9.990170899999999 End : 53.5478283 9.9902374
+13:38:01,376 DEBUG GoogleServiceBase:117 - 53.54830725000001,9.990187524999999--
+13:38:01,376 DEBUG GoogleServiceBase:117 - 53.54814760000001,9.990204149999999--
+13:38:01,376 DEBUG GoogleServiceBase:117 - 53.54798795000001,9.990220774999999--
+13:38:01,376 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5478283  9.9902374 End : 53.5477384 9.9886965
+13:38:01,376 DEBUG GoogleServiceBase:117 - 53.5478133,9.9899806--
+13:38:01,376 DEBUG GoogleServiceBase:117 - 53.5477983,9.9897238--
+13:38:01,377 DEBUG GoogleServiceBase:117 - 53.5477833,9.9894670--
+13:38:01,377 DEBUG GoogleServiceBase:117 - 53.5477683,9.9892102--
+13:38:01,377 DEBUG GoogleServiceBase:117 - 53.5477533,9.9889534--
+13:38:01,377 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5477384  9.9886965 End : 53.547379 9.988770299999999
+13:38:01,377 DEBUG GoogleServiceBase:117 - 53.5476186,9.988721100000000--
+13:38:01,377 DEBUG GoogleServiceBase:117 - 53.5474988,9.988745700000000--
+13:38:01,378 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.547379  9.988770299999999 End : 53.5478101 9.9864449
+13:38:01,380 DEBUG GoogleServiceBase:117 - 53.5474269,9.988511922222221--
+13:38:01,380 DEBUG GoogleServiceBase:117 - 53.5474748,9.988253544444443--
+13:38:01,381 DEBUG GoogleServiceBase:117 - 53.5475227,9.987995166666665--
+13:38:01,382 DEBUG GoogleServiceBase:117 - 53.5475706,9.987736788888887--
+13:38:01,382 DEBUG GoogleServiceBase:117 - 53.5476185,9.987478411111109--
+13:38:01,382 DEBUG GoogleServiceBase:117 - 53.5476664,9.987220033333331--
+13:38:01,382 DEBUG GoogleServiceBase:117 - 53.5477143,9.986961655555553--
+13:38:01,383 DEBUG GoogleServiceBase:117 - 53.5477622,9.986703277777775--
+13:38:01,383 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5478101  9.9864449 End : 53.5454659 9.9842886
+13:38:01,383 DEBUG GoogleServiceBase:117 - 53.5476538,9.9863011--
+13:38:01,383 DEBUG GoogleServiceBase:117 - 53.5474975,9.9861573--
+13:38:01,385 DEBUG GoogleServiceBase:117 - 53.5473412,9.9860135--
+13:38:01,387 DEBUG GoogleServiceBase:117 - 53.5471849,9.9858697--
+13:38:01,387 DEBUG GoogleServiceBase:117 - 53.5470286,9.9857259--
+13:38:01,387 DEBUG GoogleServiceBase:117 - 53.5468723,9.9855821--
+13:38:01,388 DEBUG GoogleServiceBase:117 - 53.5467160,9.9854383--
+13:38:01,388 DEBUG GoogleServiceBase:117 - 53.5465597,9.9852945--
+13:38:01,388 DEBUG GoogleServiceBase:117 - 53.5464034,9.9851507--
+13:38:01,388 DEBUG GoogleServiceBase:117 - 53.5462471,9.9850069--
+13:38:01,388 DEBUG GoogleServiceBase:117 - 53.5460908,9.9848631--
+13:38:01,390 DEBUG GoogleServiceBase:117 - 53.5459345,9.9847193--
+13:38:01,390 DEBUG GoogleServiceBase:117 - 53.5457782,9.9845755--
+13:38:01,390 DEBUG GoogleServiceBase:117 - 53.5456219,9.9844317--
+13:38:01,396 DEBUG GoogleServiceBase:33 - Entered getPlacesByLocation keyword : ,location id  : 0
+13:38:02,277 DEBUG GoogleServiceBase:83 - place found Name : Altstadt
+13:38:02,277 DEBUG GoogleServiceBase:84 - place found reference : CpQBhQAAAIID8HvqMqx401vNjN2Od3o986AEq2yB2fVF5DObZSyZtdcCmMM-VB70Kw-dvIKVJ6l3oRgM4M0UdO9dAZJfU1ZztcWBrZRm4-Nw-_kzhN637AJbObKXqdeHu7txEz-N1NTQukqUXn1G3PB6_0_-OfXyRGQm41uC6WF5618Aso8uz5Y2PPCXI1S0FwqALI-1ExIQeqzOiAq5r91UNxhwbnSYiBoU93Bsrmr685wTMiw94ttXavgO3QI
+13:38:02,278 DEBUG GoogleServiceBase:83 - place found Name : Das Schiff
+13:38:02,278 DEBUG GoogleServiceBase:84 - place found reference : CnRrAAAA8Y8tda6r0vHWzqklfn5nwe5XSFgAAb8iTOZLQJ0kfqJXPn-oe3Ai-O7A2YAW3kWE28FQ4tSa35TQM--6uOxbg7CynyygTpMrrC9gKmnRjrWmJy2RKOeTyYlsWtK_jTjW9LI_M1MOJpRbtZcpDe9A3RIQL-Pl50kao4cjc8rCC-fJphoUuOtghj62Dpgza8mEhprcYI1pEs8
+13:38:02,278 DEBUG GoogleServiceBase:83 - place found Name : Förderkreis Rettet die Nikolaikirche e.V.
+13:38:02,278 DEBUG GoogleServiceBase:84 - place found reference : CpQBiwAAAHTmTZhpMnnQHzRrna82bRQemDgigtdOTiCqSkjo8rO_ct0_1HL4HZo1pf4j_c1pkRY2XiQRwW7rVKDEMiWiAGShxOrN1m9r_f6kuXxwPswvmdteQSv-pD6Ex1bYtw2_V0r708u6J7TuvoJ62p-WF2VhLAG90ynnGIenWPuVwvHSBzJwSA6VisLvwm0utBfohRIQLI-aFVmtDzIfZuD3OIKWDBoUqa2eMCfQEfPzgGxjmyd3MSDZsJI
+13:38:02,279 DEBUG GoogleServiceBase:83 - place found Name : St. Nikolai Memorial
+13:38:02,279 DEBUG GoogleServiceBase:84 - place found reference : CoQBdQAAAH1q3TQwe4pCMHf8HUwxQO73gXpemLAt94yGhgWKAkXIqX748KMbykHksP2fGdmDfMuiABdI9fRZ7bzccPxQJlidiXcrRx2w3RsH5eI9zt_nNv0c1MdlUFAd62HMMhVX2qjyUFvVKtaIpsuBidRtBCr_zuLWtgCRIKqTg02cnlTyEhBM6Yh8d_3BikXsc0fhBEyXGhR9o6TXvU3OfeNCQsB25pbRVTEBjA
+13:38:02,279 DEBUG GoogleServiceBase:83 - place found Name : Asian Bamboo AG Bambus
+13:38:02,279 DEBUG GoogleServiceBase:84 - place found reference : CoQBeAAAAKM7S8UxChvwgOvKjhgOZiM48m2yb3IWw9zdW44QC1OP3howVDu0YRxW0gia7XAHouMwF-iT1x7iBiogOw6cE8PJ4F5RqoGFszcxZA9EjKq3MW1Y3jAfm5JHtOukyDeiOQATSEeqvw2Wu6Bxa17mXJPitB0ASKik6jYPdnt27raXEhBfkse11t5bg5oIzkXl5baIGhSgnhwlDCOV6CnOvobK_jauvTe7zg
+13:38:02,279 DEBUG GoogleServiceBase:83 - place found Name : Sofitel Hamburg Alter Wall
+13:38:02,280 DEBUG GoogleServiceBase:84 - place found reference : CoQBewAAAIBvyJhXfNoyBNSzlj-V3n5Y35K2zTsVRVcjasg88CWg1k-JKlg88l-LWbojti4bJ7pIj6JUBMz5DY3G8Az25jHhYTFyJhQNHtdeM0bQfENpjIIsyfkyLkMqz3UtE-n153-EfpxgWsPjHVfl9VIhhYQB2Q1Akh4mC01aa5gKhPmuEhAX9XhilNX-J3reI7O8YurLGhR9X42CNcvPmIkYA7eb39MEUQe2aQ
+13:38:02,280 DEBUG GoogleServiceBase:83 - place found Name : Die Hamburger Getreidebörse Verein der Getreidehändler der Hamburger Börse e.V. (VdG e.V.)
+13:38:02,280 DEBUG GoogleServiceBase:84 - place found reference : CsQBwAAAAFEego5XIb2Pj2sd5ICcyN-mfrvMwZmmnQkZXAhc1UsTXA3nULMPeknLyghm1j5RgMXvGYvqjVRBT-AMRmaalOyEncpELzIx34jhbCJr_alo10Zi1FixBC7e1uwyAeg7nm6HAwZVk6O88UnLznZlcitukkvBQmzhXA8zwxt4ebYtTxLzDcUFoyAQECoR2nri8FvsYLOiJRoDnwFBV2_rv2Um845pJfO4I1YgzahA-W3QdiYe67e9un3Irg5Etl7sfBIQZTu5Zyq9ouQv4uyrcnsuRRoUBSQsv29HdiD3b1HIcYbb1ND3wXU
+13:38:02,280 DEBUG GoogleServiceBase:83 - place found Name : Fitness First
+13:38:02,280 DEBUG GoogleServiceBase:84 - place found reference : CnRuAAAArrVKCMquzmWxqdBbhuTszjI2Lc4vNpUBSytEwytI7RFMJKIS-3t5l9BeMAnGOr1fFkBfsmlkMsuZwZfq59IU-mhF7M-54kBr2WaaSyqC8mpQmCEyk5EAA-Vx2dBWoy4ETyiPqWYWuXWhX2oEhX1rpRIQjf5Pwzu9TK5g4MWNNB-4wBoUEG4NeSFb8pyguGTcSWYsXcm786o
+13:38:02,281 DEBUG GoogleServiceBase:83 - place found Name : Deutsche Bank Investment & FinanzCenter
+13:38:02,281 DEBUG GoogleServiceBase:84 - place found reference : CpQBiAAAAGLJnA0cXKFYqlIIha0MRCOwiMXBAs_2ebJcL4ipr_siU7IM1Xkrct5h8hqihko296_3rLZ4Qfzdtyz8vUsGv9RqMe1cnP_hvNkpbhsuBEsniQMuV2HjGA9yHix9IqcmkH6ZPs1fRRWovuj8vh1l8RWd7786V2-Y6vdWVHTkAYyUtQqNv5Od0J-4op5AFvercBIQKLlRd6pncG_MfamNMXsd-RoUBYokwCGK-zApoJxkMk_Cuyx1rII
+13:38:02,281 DEBUG GoogleServiceBase:83 - place found Name : Friseur Haarverlängerung Andriske Hamburg
+13:38:02,281 DEBUG GoogleServiceBase:84 - place found reference : CpQBjAAAALvTsOVj-YJRTtrjNl6PT89aaS9_xH5S5uu09Nk97zYZq-J2hchouV3PDmk2gayLZbWmLGe8oFusk2SIWseE567Mwb6Hl8by0DgjBqtQtIwcx9aH3X-g8kbWmH68UbzVpzRfa2tD1A8UvcBSoMnIQXebDmJxpTwlbVaEJG8TDKggKHLhUrQK32zgzHFRd6qAKxIQnj7ozks88zrLSAgYpt1HGxoUGCA30gUibRp_NcEUI64EfBKW9CY
+13:38:02,282 DEBUG GoogleServiceBase:83 - place found Name : Handelskammer Hamburg
+13:38:02,282 DEBUG GoogleServiceBase:84 - place found reference : CoQBdgAAAMZMx3RbMiXkNLFiH0dspyYM5avYxsHQudLuUCjlsM-CVHZtZTwqsIQ5XOFnW9cAy_ORPUAFeQugID08dgZtGHPHuo39Dl7ySTkc39Ei9Uz-fJcqt673C3sAhBflHw2XKXj4iWjf0NQAMmDuu5nIqXAGnwteH3kuRPtG51Lod6meEhC_DDdSMtstIP_SpcC1T6qFGhR0coPxqOTJrw_LoPCl5uKxWqjDFQ
+13:38:02,282 DEBUG GoogleServiceBase:83 - place found Name : Deutsche Bundesbank Hauptverwaltung u. Filiale
+13:38:02,282 DEBUG GoogleServiceBase:84 - place found reference : CpQBjwAAACg8rOJ670e452nDWXBX69Ryd4Iv44jf1mMs_zmXzXEPOuP2NuE97hl_l85lCOGIfgYZHDGhT5a6NFGfVJJnAUy3CATSCAae2mVxNuc-uFifCuXatL0ueJFvA5iEiei2SAjlrc7ZBiB297ATjrlXWQse0CaArWMfHMB-ij4_G-KdooI2OKD5JPmhV_E4zr0_FhIQFiD0zRdUD7HstCohm2bnHxoUzZWiRjmRFC7a114d6h2zB-RjmO8
+13:38:02,282 DEBUG GoogleServiceBase:83 - place found Name : Bistro Am Alten Wall
+13:38:02,282 DEBUG GoogleServiceBase:84 - place found reference : CoQBdQAAABG2hbF50VH62h2g4PCDej67xyIuWtRCpnt3AqOO21LkT1VCq2j6G95ZEOXu22R7PnBZ1HWM1SDvNPHgUgWwYNTKfQBOw46V3gzq2Ig6xsa8EEKiE_zltXOEoaQLxCp7V1oaAwzzDxb2G-6-mmTW8PzWK322YvCadwtyXgacOhN6EhB6i7lyfht1k-Uti1Bvgy73GhTwFtx0iSHNEbyFLVLDjBp0I_YQGA
+13:38:02,282 DEBUG GoogleServiceBase:83 - place found Name : Sylter Milchbar
+13:38:02,282 DEBUG GoogleServiceBase:84 - place found reference : CnRwAAAAQB-ph3bj3Qe3GFaFjXq7kKBiUZXuIeATJL0h-TDrLoFnzd-IGwpWMHiiy6KQg8Y6ue2iFPf98CYu8dnA35_8K4SQ_ExWoXVDmDOUr9lqeG0BkorhpZ8AIJ1_P10xtiusHoFgJq60Yc-AdQtMi_ZIMxIQ8QzFrjTNHWoV6oaxZN3nLhoUk3fQvTKb0DaqIoIwbPzcbyQKLQw
+13:38:02,282 DEBUG GoogleServiceBase:83 - place found Name : Dr. C. Gehlhoff-Weiser
+13:38:02,283 DEBUG GoogleServiceBase:84 - place found reference : CoQBdwAAACgscsAGcIH65Paj_o5bEoXS66EfItWc6O1aqSDSRJtKuLe36awEGpIUxxMKWbDvheJInzow9bPhd6wbFEVY-4BHtuV-rP_2PajIiXtv-2vTx4spWyfbQroRosf_0wfEfR5Ebc89P9cDdZHKX7T5-Bb4nMWKTrgpW7rW-qMdxh77EhAvf4C_dnlfEuqHEfDNPJiEGhTV1jU3JdPX94dSnjX4vnUObLbatA
+13:38:02,284 DEBUG GoogleServiceBase:83 - place found Name : Herr Prof. Dr. med. Michael Albrecht
+13:38:02,284 DEBUG GoogleServiceBase:84 - place found reference : CpQBhQAAALbLWBMhZbJ0IUdL7yLI1zmCO56mRfNMnBby3oEYhT0nC9qxteHbfByeYFjOAk7D_2whRKJXztJy9TbWL3AH7JQocRiqJazAvKoD35-pJ1R4NHwRFaPbEwQlbt3JLghcjBQ8FumGEMxrxQW7XET4Bctw8zorZ4Q02SP1xX7M7v9h-5rJmCexyov3za-uSWepxxIQPxPcWDm1lbBp5gaUEbuewBoUUAYjd8I695KmBmemG21Lrpj0px8
+13:38:02,284 DEBUG GoogleServiceBase:83 - place found Name : Butlers Filiale
+13:38:02,284 DEBUG GoogleServiceBase:84 - place found reference : CnRwAAAAiANkx95rQXyAgusw78mY6Cx672QSbrt9CBxtFMO0f13xZfuYA_AfCuPSgXJ5rC0ltDyZoieQxBwGbJ6EUEBpU9xakXEEGM3X2FM_FakbnfnR5UaYigzJ7H1pkb7s0ZTlYLB6mnFB33ZGikykWaxIBhIQ7WRXFkrjtfb_HG99eMewuxoU8kuXhUec32Dk_uepSTTbU6mN-vg
+13:38:02,285 DEBUG GoogleServiceBase:83 - place found Name : Souper Salad
+13:38:02,285 DEBUG GoogleServiceBase:84 - place found reference : CnRtAAAAhLMtwGeOH_xy0ecayFNzI4e-UDXGKmESI388NxpOHvYepidyUOsCwmYKzR_xT-oVN8OqUTImbybtuOy3hDgSLDYfkCP6riTKyula637RXpwgpn-Ar4ujygabSoQAdzmI6haEZNJnkzEY-XyqbKF_kxIQq2PAhkLXoOhnDuDDSDVVfRoUQgDwEnCc349EgmNcYdjc_jvL4h8
+13:38:02,285 DEBUG GoogleServiceBase:83 - place found Name : Starbucks
+13:38:02,285 DEBUG GoogleServiceBase:84 - place found reference : CnRrAAAABiCr4PHQCaNPRnDD-jd5Zp5RwX6wMWjRK0iTrKVo-u0a6Z8ucvACoFO7ggW_ohbFbGcxEiomcPTYL2IGPBhm_z0zgX8_CyRVnAllIiy0eG4PJCPcSX2ceoWE6B18xdUDB5k9uIiHVPiESRsTS3B1wRIQUjI3mYUdR8MIEYav83s54RoUz6TvGXtJWV9jT6mLv4hCi5PG9Jc
+13:38:02,285 DEBUG GoogleServiceBase:83 - place found Name : Neustadt
+13:38:02,286 DEBUG GoogleServiceBase:84 - place found reference : CpQBhQAAAGi41PH3n_j8eErKUru7oYGsS43cvi1oeSMf4C0pMoXnp4CMwkAWiL4HQJpoJ5Tl848jLas1LBRQFi_VRiv6yliTg3Cu608axVXDTaOHsG3F_ZKHzGF6bOjCvrcxAjqdlSp3BwbmlTJ2aPMWtVcoZh_iJ6zAc5FnHLYzcDE-7OGIQ3ai7QiuzC_zQV_HaePx5hIQHOFRlj_OXyOxRJN190darBoU7Rw02PsJfp_fVx3mZVLVLj2DKok
+13:38:02,288 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.54834  9.988822 End : 53.545471 9.984273
+13:38:02,288 DEBUG GoogleServiceBase:117 - 53.548210,9.988615--
+13:38:02,288 DEBUG GoogleServiceBase:117 - 53.548080,9.988408--
+13:38:02,288 DEBUG GoogleServiceBase:117 - 53.547950,9.988201--
+13:38:02,288 DEBUG GoogleServiceBase:117 - 53.547820,9.987994--
+13:38:02,289 DEBUG GoogleServiceBase:117 - 53.547690,9.987787--
+13:38:02,289 DEBUG GoogleServiceBase:117 - 53.547560,9.987580--
+13:38:02,289 DEBUG GoogleServiceBase:117 - 53.547430,9.987373--
+13:38:02,289 DEBUG GoogleServiceBase:117 - 53.547300,9.987166--
+13:38:02,290 DEBUG GoogleServiceBase:117 - 53.547170,9.986959--
+13:38:02,290 DEBUG GoogleServiceBase:117 - 53.547040,9.986752--
+13:38:02,290 DEBUG GoogleServiceBase:117 - 53.546910,9.986545--
+13:38:02,290 DEBUG GoogleServiceBase:117 - 53.546780,9.986338--
+13:38:02,290 DEBUG GoogleServiceBase:117 - 53.546650,9.986131--
+13:38:02,291 DEBUG GoogleServiceBase:117 - 53.546520,9.985924--
+13:38:02,291 DEBUG GoogleServiceBase:117 - 53.546390,9.985717--
+13:38:02,291 DEBUG GoogleServiceBase:117 - 53.546260,9.985510--
+13:38:02,291 DEBUG GoogleServiceBase:117 - 53.546130,9.985303--
+13:38:02,291 DEBUG GoogleServiceBase:117 - 53.546000,9.985096--
+13:38:02,291 DEBUG GoogleServiceBase:117 - 53.545870,9.984889--
+13:38:02,292 DEBUG GoogleServiceBase:117 - 53.545740,9.984682--
+13:38:02,292 DEBUG GoogleServiceBase:117 - 53.545610,9.984475--
+13:40:20,393 DEBUG GoogleServiceBase:38 - Entered getRoute. Startlocation : 0, Endlocation  : 0
+13:40:21,001 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5483282  9.9888224 End : 53.54846690000001 9.990170899999999
+13:40:21,001 DEBUG GoogleServiceBase:117 - 53.54835594000000,9.989092100000000--
+13:40:21,002 DEBUG GoogleServiceBase:117 - 53.54838368000000,9.989361800000000--
+13:40:21,002 DEBUG GoogleServiceBase:117 - 53.54841142000000,9.989631500000000--
+13:40:21,002 DEBUG GoogleServiceBase:117 - 53.54843916000000,9.989901200000000--
+13:40:21,002 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.54846690000001  9.990170899999999 End : 53.5478283 9.9902374
+13:40:21,002 DEBUG GoogleServiceBase:117 - 53.54830725000001,9.990187524999999--
+13:40:21,002 DEBUG GoogleServiceBase:117 - 53.54814760000001,9.990204149999999--
+13:40:21,003 DEBUG GoogleServiceBase:117 - 53.54798795000001,9.990220774999999--
+13:40:21,003 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5478283  9.9902374 End : 53.5477384 9.9886965
+13:40:21,003 DEBUG GoogleServiceBase:117 - 53.5478133,9.9899806--
+13:40:21,003 DEBUG GoogleServiceBase:117 - 53.5477983,9.9897238--
+13:40:21,003 DEBUG GoogleServiceBase:117 - 53.5477833,9.9894670--
+13:40:21,003 DEBUG GoogleServiceBase:117 - 53.5477683,9.9892102--
+13:40:21,003 DEBUG GoogleServiceBase:117 - 53.5477533,9.9889534--
+13:40:21,005 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5477384  9.9886965 End : 53.547379 9.988770299999999
+13:40:21,005 DEBUG GoogleServiceBase:117 - 53.5476186,9.988721100000000--
+13:40:21,005 DEBUG GoogleServiceBase:117 - 53.5474988,9.988745700000000--
+13:40:21,005 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.547379  9.988770299999999 End : 53.5478101 9.9864449
+13:40:21,005 DEBUG GoogleServiceBase:117 - 53.5474269,9.988511922222221--
+13:40:21,006 DEBUG GoogleServiceBase:117 - 53.5474748,9.988253544444443--
+13:40:21,006 DEBUG GoogleServiceBase:117 - 53.5475227,9.987995166666665--
+13:40:21,006 DEBUG GoogleServiceBase:117 - 53.5475706,9.987736788888887--
+13:40:21,006 DEBUG GoogleServiceBase:117 - 53.5476185,9.987478411111109--
+13:40:21,006 DEBUG GoogleServiceBase:117 - 53.5476664,9.987220033333331--
+13:40:21,006 DEBUG GoogleServiceBase:117 - 53.5477143,9.986961655555553--
+13:40:21,007 DEBUG GoogleServiceBase:117 - 53.5477622,9.986703277777775--
+13:40:21,007 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.5478101  9.9864449 End : 53.5454659 9.9842886
+13:40:21,007 DEBUG GoogleServiceBase:117 - 53.5476538,9.9863011--
+13:40:21,007 DEBUG GoogleServiceBase:117 - 53.5474975,9.9861573--
+13:40:21,007 DEBUG GoogleServiceBase:117 - 53.5473412,9.9860135--
+13:40:21,007 DEBUG GoogleServiceBase:117 - 53.5471849,9.9858697--
+13:40:21,007 DEBUG GoogleServiceBase:117 - 53.5470286,9.9857259--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5468723,9.9855821--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5467160,9.9854383--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5465597,9.9852945--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5464034,9.9851507--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5462471,9.9850069--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5460908,9.9848631--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5459345,9.9847193--
+13:40:21,008 DEBUG GoogleServiceBase:117 - 53.5457782,9.9845755--
+13:40:21,009 DEBUG GoogleServiceBase:117 - 53.5456219,9.9844317--
+13:40:21,010 DEBUG GoogleServiceBase:33 - Entered getPlacesByLocation keyword : ,location id  : 0
+13:40:21,256 DEBUG GoogleServiceBase:83 - place found Name : Altstadt
+13:40:21,256 DEBUG GoogleServiceBase:84 - place found reference : CpQBhgAAANXR9gyZuZ79p-TUMLf4woppNQqGnblp05F6gNEy0chUJ9qr0wyl-Ukzkzzmqa2bbSAqYI8SZneN2I0u8pWVOxlAp72rr0jk3v2Urdun2oJsXp-BdcMeqyjmYuKtm5bvc0RVIufxGN9DoeRO4ZUW_FGSfK-MqVAuWeDn3HpRHapg9S_ki_PpxkB46fmMEygCABIQwCRa11Pg2UzV26rhc1Oj2hoU1Gy0P-I0AIrLj5l1jtw58qMAAOk
+13:40:21,257 DEBUG GoogleServiceBase:83 - place found Name : Das Schiff
+13:40:21,258 DEBUG GoogleServiceBase:84 - place found reference : CnRsAAAAbt3LfdGLE41GpjPD9zb5siGEzlBjXqj3y5PKiQKa5v0jLcqg2KGDYr_wbKxuLiuFYQonQNAe3Ym02obWpxTXooDsl6ZlNh9qz4sJbhcXbjkOUzLUVUq20jrjiXiipIl2tE_22ds440Y8LyY-BfeFXBIQSCV_WPfophdhWGnS08J6ERoUf0jLy7iiIAa1G8JyFnxWXCfoBno
+13:40:21,274 DEBUG GoogleServiceBase:83 - place found Name : Förderkreis Rettet die Nikolaikirche e.V.
+13:40:21,275 DEBUG GoogleServiceBase:84 - place found reference : CpQBjAAAACUQdqInmrCbcF0Gv7lffs84UsWrnbjvuJLV8TymJFNC2LBbOCj4o_bBvUBlXpGntrpdK4H58llg6Wke__O_rMyY6kJYkHQ6Eh-ieoaErP0fPtleXT3LDCp__d0Kj3aR-1q97naWpsxFnVq9Z5NUVCvcXP-8Ly8TEWvHtFhsqbylwCxPyixM6s672M2JtCbPURIQW5AXpsXDu6uotTeBKAk6xRoUpJV0lKoQNc9NGpMAujKwiBO4qeE
+13:40:21,275 DEBUG GoogleServiceBase:83 - place found Name : St. Nikolai Memorial
+13:40:21,275 DEBUG GoogleServiceBase:84 - place found reference : CoQBdgAAAD7DfiHRmxLpQn2t4bOTqt2s7Zkco_bBTmCxtSQvsJTxozSlaikiVEHptWd5gShwWq1sr1ntfgCajHrCJcNnbBrGUQVim5rH33nBcg8IA7PgIl1vB-GH7fdG7R1rISASN7D-D9eveBWbH7bMJ9KswDu0vfFjETh3ecfY31FgrT4XEhCOrJl7x0CQx3Qizz9nukUHGhSowBvrp0T-R6je-_30xS-94oouQA
+13:40:21,276 DEBUG GoogleServiceBase:83 - place found Name : Asian Bamboo AG Bambus
+13:40:21,276 DEBUG GoogleServiceBase:84 - place found reference : CoQBeQAAAFymVixl8UivvNz6GYsEbiZldVceU8OaGSlTBoyg0pRTeR1XWe6IcvTRSIeTpv2AidBkbennmo2KHdhBhN-KEo_C0P8OCn_mfjqAd-o72mt8nVe5jzZo8Nupjel8RoUUV4oVGexYpWk79wmpgBjdauRqQlcHcS9X_z7S0eeOYTl0EhAA2wwCGZkMcjQ1Dn21Sw74GhTeIL-aBQyMEQ0pB3Ha6rDIjAfIHg
+13:40:21,276 DEBUG GoogleServiceBase:83 - place found Name : Sofitel Hamburg Alter Wall
+13:40:21,277 DEBUG GoogleServiceBase:84 - place found reference : CoQBfAAAAPP4SwbAJMQOzS88bVSUZXk3NQufkfxNdYpTRErFIIxSIeUc77VIYIOfAW2jLHAR0XI4yVCOyOByzDWZND3tfAAcalPXj6E4Ezuqqcs60ch548CxNPFok-SJABArRPxlaoquw5-mPSE2FvnFbAUhB2EmreCkVDDfetTGRZxt1aCVEhD4LS7gZYeRIft5HVY9dPhPGhSDD4qYsAAqY9zTsEvW58NjF30H7Q
+13:40:21,277 DEBUG GoogleServiceBase:83 - place found Name : Die Hamburger Getreidebörse Verein der Getreidehändler der Hamburger Börse e.V. (VdG e.V.)
+13:40:21,277 DEBUG GoogleServiceBase:84 - place found reference : CtQBwQAAAH9yH-DOCPLMm38z6IGDFWnE6iTdIBTHPtOt4faewViHZ5B5ANidKlK0iyLm74HD5tLEkpMhN90Q8_tSj9E_IC8hk61vS2HZZbGURzAk3YzsDIe40mlDsfgaCFg8DGpgfupXQYEAwJP1w_M3XyGmI3v-_vHa6AL2QbJK3AVlV6A_3Ll1j-vFDNbFlfQZh_Gal9ODnbfx5iqOLURtUdHU1iXsoy7J1__HmUoXXl9UfsUytYz65CqZsiR9bBdfDoivljealP29h023yy4u757RLBMSEOIq5TjP8gh-aphpBYLYfvoaFLwYvu1GRN3jCvu6pFE7uCqN4RSc
+13:40:21,278 DEBUG GoogleServiceBase:83 - place found Name : Fitness First
+13:40:21,278 DEBUG GoogleServiceBase:84 - place found reference : CnRvAAAAlqJvOUQznHZtmnUr5X7whj9ynMaOqlQxOcClGaxkBcj_VxEiqCXVNYdnChkngNirYkLHXryR3a3HVVoVEiXVF9ayUn0SAqnGi6kaQ9bdt7TnFeSZmUrC7wRsHGelIci4i6UnL2f3kJQCgtKxNiAaOxIQkuGTcEt-TMmJ4debASC28RoUWzG5X65Oh3N1nHH2HoY1VIrorkE
+13:40:21,278 DEBUG GoogleServiceBase:83 - place found Name : Deutsche Bank Investment & FinanzCenter
+13:40:21,279 DEBUG GoogleServiceBase:84 - place found reference : CpQBiQAAAEHoYLLn8OteggdBIf2pLdGxSh5_dhmakrHp-Qr1tmzawiKICzkkZheo8lD8_e63VoA_GvnLtENVTKKM5zPPLPJI2QDoc98kpXhly3-78jdRBVaOg_J3BocTwsLfOaOBcE7Pfdk3eAL1Ft8TBPeAy9GDPT6SslH0XlnHCt-5otOjXquY_QJNKfF9uPMk4IlzTxIQKvaFqeiAEKRHJ12XaVhxIhoU4CCOs-eQenQEJel20pFlPVYni4w
+13:40:21,279 DEBUG GoogleServiceBase:83 - place found Name : Friseur Haarverlängerung Andriske Hamburg
+13:40:21,279 DEBUG GoogleServiceBase:84 - place found reference : CpQBjQAAAHIuA7vBkvKyW3nAi8M6iLR91gn2DvbaI_CJ25jECpCRbpWXh4A-oMCiK4J8gU_KkiQXTd2dmyTGJwXtkyk88BtMupsu1aD8KpNBgdU3ktAhF6KXG3zrUAtwhuxmCSAQucZdaETRQp0R-Xq-NUwhqVXjPwb8vnTzeI15bbibOaePEpb_8GV93XS2f8zXSCAk_hIQ0Hg1ehj3R9uQeF51jCrZABoU_f3N67ou_kG_dKgFdFJ1PgPdX4Y
+13:40:21,280 DEBUG GoogleServiceBase:83 - place found Name : Handelskammer Hamburg
+13:40:21,280 DEBUG GoogleServiceBase:84 - place found reference : CoQBdwAAAO1i1GMkk6573mvXZW5V-tgPDttAhOW_IbjScdXmPFNAB17JgeO_ujlqMo_vgi30n1YMAakJ9IikP27YFblAlXmXDVVuy1QMKZ21TcXvRM9Ce8vwoA75Tt7iqb-wharLWm-Dk2RyqAoHLcO7tjx-AfNkjXoWbjh1J7HI5TdwLXpsEhDZz1QqEsUbHo3ZRVTovg81GhTpA1AJA_UaTkCSkFXA1mFvP5uIDw
+13:40:21,280 DEBUG GoogleServiceBase:83 - place found Name : Deutsche Bundesbank Hauptverwaltung u. Filiale
+13:40:21,281 DEBUG GoogleServiceBase:84 - place found reference : CpQBkAAAAGKNHQk-jYKyMbwCViPckMh3QBawW6eX457xt8-L635PPbWMMHOyYZ6kAlhvQQTdGIrzcRS5_JBeex2Re6pn8DWBNyq3YaZBlN13TPz5Cu6kDR66otuNXcnDsZKSqumGKkEWNZqFHqPEteHwjO892BuRTqxJI4ESDShI-cXlsYurUFZqjLhp-u5hjo7vM0MyeBIQgtI1UqHxpz0H7yeybflxsxoUwnhprXGtiu6J0aOY0gkzuxC3G40
+13:40:21,281 DEBUG GoogleServiceBase:83 - place found Name : Bistro Am Alten Wall
+13:40:21,281 DEBUG GoogleServiceBase:84 - place found reference : CoQBdgAAADsKzb4z-nIFn4YQfmiOy9ucnpEiWg-vlLOrk-dvyFQ72YEf5MxaE8JqxEkVdSo_GCiVp1ZpaWRrKe9eodzp24My-lr6nwUSTyrm1qipHtB8yGZhRqujgTJq1BzVz41Z9wpSm-TvNL-O959jFh8mjEiImIYX8bRUPYghMFeUoKp9EhDgX-wpMZJtFF-qpiwTSwjZGhT0n8aPbnKkkUz2hBxyvO5gjH9R3Q
+13:40:21,282 DEBUG GoogleServiceBase:83 - place found Name : Sylter Milchbar
+13:40:21,282 DEBUG GoogleServiceBase:84 - place found reference : CoQBcQAAAFMgiTpe37QikC5PDk5ZzYdmnxPwenjyqZtyOcotPY7KKVM5G4DWrluGeIedPrGk0ivYA2knmZH6rtXU6OMmmBpvHiCz7_YZZMp-nm2ArrGA8vWZsiBr3UDCl67HDaX21wv0_H5nIZiWPFhfxhcmIjZd-MdI8a9MXnH_HqFKB96DEhCjEkbO9mJhhYncukY8rBtoGhRDGnO6ajtc9RHKi44mbM3P0qSaEA
+13:40:21,282 DEBUG GoogleServiceBase:83 - place found Name : Dr. C. Gehlhoff-Weiser
+13:40:21,283 DEBUG GoogleServiceBase:84 - place found reference : CoQBeAAAAMydHCFOc9f_mtMbNUa9OJ46APw1mNP9PxN5VXF3VYaGbPqTRGD2xAaKy0IH-QwQHnlxvM4iz_ycUABqRjHM11ueN2hCTQArxbvIgBCVnbVYTDDJDbvPkUQjLNBy9HP9VgkTj9cVc54xM-B2CmieTSjdDjyTvJNcCIQ7_O96icHnEhB3g0Ld8UFWa2sc05itaOpKGhS4Y4U6MVl6NSLX9FdCt6-7-eUR5g
+13:40:21,283 DEBUG GoogleServiceBase:83 - place found Name : Herr Prof. Dr. med. Michael Albrecht
+13:40:21,283 DEBUG GoogleServiceBase:84 - place found reference : CpQBhgAAAB_vsnJAtmtpwQqueMeO-1bPX1d0bKWt9-HgQGSsFU0mH6UAiFpZl4D8GydL3y2tvyyP5UbsS1wgu2hUUSZ4TttZoH2coKM0AUiYp6kJ1fGZQWIlLwdH1bp-9JnJELPlWK4wXs4Nl3vW7OwUYKaaq0QnQngq41vfd730B-wz_P7aMe9bc9tvFmFCTAR5e4GPlRIQWGx5kMKj8h6G4vWbx-oTWhoUiMwYBnr7CNcXQKJkgoEYsFafZhI
+13:40:21,284 DEBUG GoogleServiceBase:83 - place found Name : Butlers Filiale
+13:40:21,284 DEBUG GoogleServiceBase:84 - place found reference : CoQBcQAAADLB6jLKmTEUzMOtqnlaKlBxo0YcqCSj8vaKGsEz3cJV7z8c0xhmaPQIvk20vRpuEpueNWbuqM1fkxRmWxtxIk5cPicgHQrUJuh3aBncqPfE1wnZLSylXBw2HaptjcPcBKCNyY9lrhYciuUQraK3f10_CdC4OY160gz5etxwhwLtEhDFZk5J7nQgn1nlGeT7_9-YGhTUesgpXTmneUme0sl6Uo64Rf_hxQ
+13:40:21,284 DEBUG GoogleServiceBase:83 - place found Name : Souper Salad
+13:40:21,285 DEBUG GoogleServiceBase:84 - place found reference : CnRuAAAAtHnyMuir3bHhjHaPEBEVmyXZ0xD8_QrIhe9njrFrnFOrhNRvDmTXgarRw2KO4D1uTuYDDpUNoTNGUeqUe6ymfoyOvzuf01SbNvqWodZ_TSpDEQgl4AuOTt_t886c9-KQcSVtYY08sCP6wu2qh2BfGhIQtbL6anvSWo480L3r4jFVRhoUmvvXlYhixbUTktj1BhfRVwd_vUI
+13:40:21,285 DEBUG GoogleServiceBase:83 - place found Name : Starbucks
+13:40:21,285 DEBUG GoogleServiceBase:84 - place found reference : CnRsAAAAsgslNQnRiKTf90iV9PdYfMBEsB7iyn65306vERjDtPl3uTiLssnyDszLLKJeEmWC1uiYftc_En8oKhRUALHLyZ4uuxO1UxIRgYnl-5332A7PXAERewg_ZbHxss1Om7g8vH_dGrCLz6LzhWwBOrz3UhIQHaQ6ATZ65hW2LOTmeG5T2BoUHYcLtOJ5PVuWeuRopMN9H0syyuU
+13:40:21,286 DEBUG GoogleServiceBase:83 - place found Name : Neustadt
+13:40:21,286 DEBUG GoogleServiceBase:84 - place found reference : CpQBhgAAALVI3q8-zsKeRtJTG34norgMtzzI8wLIxTX3l3F1tgrtQWVYpYDoxUvbeyy-w-x15QJgEU0q2sx81rl3Gp3fkgDYXO78nvssZ6KoFOSWIhbJP4SUI0hiBz3jGs2IDy1jhvrYoH1Zbz06vh1w3_sHu87N2zM8nSjhGkEJhp-OCOLXTwJit_MhazZnktv-2Z3p5xIQ7TuiqVWb48rQALE8afaC1hoU_rxlvWY_c0jdHy__4stGPrMrIfo
+13:40:21,290 DEBUG GoogleServiceBase:85 - Get WaySteps. Start : 53.54834  9.988822 End : 53.545471 9.984273
+13:40:21,290 DEBUG GoogleServiceBase:117 - 53.548210,9.988615--
+13:40:21,290 DEBUG GoogleServiceBase:117 - 53.548080,9.988408--
+13:40:21,290 DEBUG GoogleServiceBase:117 - 53.547950,9.988201--
+13:40:21,291 DEBUG GoogleServiceBase:117 - 53.547820,9.987994--
+13:40:21,291 DEBUG GoogleServiceBase:117 - 53.547690,9.987787--
+13:40:21,291 DEBUG GoogleServiceBase:117 - 53.547560,9.987580--
+13:40:21,291 DEBUG GoogleServiceBase:117 - 53.547430,9.987373--
+13:40:21,291 DEBUG GoogleServiceBase:117 - 53.547300,9.987166--
+13:40:21,292 DEBUG GoogleServiceBase:117 - 53.547170,9.986959--
+13:40:21,292 DEBUG GoogleServiceBase:117 - 53.547040,9.986752--
+13:40:21,292 DEBUG GoogleServiceBase:117 - 53.546910,9.986545--
+13:40:21,292 DEBUG GoogleServiceBase:117 - 53.546780,9.986338--
+13:40:21,292 DEBUG GoogleServiceBase:117 - 53.546650,9.986131--
+13:40:21,293 DEBUG GoogleServiceBase:117 - 53.546520,9.985924--
+13:40:21,293 DEBUG GoogleServiceBase:117 - 53.546390,9.985717--
+13:40:21,293 DEBUG GoogleServiceBase:117 - 53.546260,9.985510--
+13:40:21,293 DEBUG GoogleServiceBase:117 - 53.546130,9.985303--
+13:40:21,294 DEBUG GoogleServiceBase:117 - 53.546000,9.985096--
+13:40:21,294 DEBUG GoogleServiceBase:117 - 53.545870,9.984889--
+13:40:21,294 DEBUG GoogleServiceBase:117 - 53.545740,9.984682--
+13:40:21,294 DEBUG GoogleServiceBase:117 - 53.545610,9.984475--
+17:32:16,659 DEBUG GoogleServiceBase:38 - Entered getRoute. Startlocation : 0, Endlocation  : 0
+17:32:18,254 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.5483282  9.9888224 End : 53.54846690000001 9.990170899999999
+17:32:18,254 DEBUG GoogleServiceBase:118 - 53.54835594000000,9.989092100000000--
+17:32:18,254 DEBUG GoogleServiceBase:118 - 53.54838368000000,9.989361800000000--
+17:32:18,254 DEBUG GoogleServiceBase:118 - 53.54841142000000,9.989631500000000--
+17:32:18,254 DEBUG GoogleServiceBase:118 - 53.54843916000000,9.989901200000000--
+17:32:18,254 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.54846690000001  9.990170899999999 End : 53.5478283 9.9902374
+17:32:18,254 DEBUG GoogleServiceBase:118 - 53.54830725000001,9.990187524999999--
+17:32:18,254 DEBUG GoogleServiceBase:118 - 53.54814760000001,9.990204149999999--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.54798795000001,9.990220774999999--
+17:32:18,255 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.5478283  9.9902374 End : 53.5477384 9.9886965
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5478133,9.9899806--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5477983,9.9897238--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5477833,9.9894670--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5477683,9.9892102--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5477533,9.9889534--
+17:32:18,255 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.5477384  9.9886965 End : 53.547379 9.988770299999999
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5476186,9.988721100000000--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5474988,9.988745700000000--
+17:32:18,255 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.547379  9.988770299999999 End : 53.5478101 9.9864449
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5474269,9.988511922222221--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5474748,9.988253544444443--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5475227,9.987995166666665--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5475706,9.987736788888887--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5476185,9.987478411111109--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5476664,9.987220033333331--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5477143,9.986961655555553--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5477622,9.986703277777775--
+17:32:18,255 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.5478101  9.9864449 End : 53.5454659 9.9842886
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5476538,9.9863011--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5474975,9.9861573--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5473412,9.9860135--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5471849,9.9858697--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5470286,9.9857259--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5468723,9.9855821--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5467160,9.9854383--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5465597,9.9852945--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5464034,9.9851507--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5462471,9.9850069--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5460908,9.9848631--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5459345,9.9847193--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5457782,9.9845755--
+17:32:18,255 DEBUG GoogleServiceBase:118 - 53.5456219,9.9844317--
+17:32:18,255 DEBUG GoogleServiceBase:33 - Entered getPlacesByLocation keyword : ,location id  : 0
+17:32:19,336 DEBUG GoogleServiceBase:83 - place found Name : Altstadt
+17:32:19,336 DEBUG GoogleServiceBase:84 - place found reference : CpQBhQAAALFWECI5kzQRWUJvZtt7rhJpUTdNewt-q8gytFAvTHEA8hSV4cTi_j7xsizZmYF2C-JheWGnV2acyzOI-qbxaTzo5lhi9jBu3VuJUr4t9DkRNq6mo1qsr7_xLiN74km1tmTR5Q0R-ponvD30YJv1vXFSpW3kXdkx9I6OcxFe3VfNF-wJO4ATFClMVxrfa-IfwBIQSE06F0_uX1axhS_bwXz6vxoUzhQrbNn9V_La1ijxyl_mdPLeqkI
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Das Schiff
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CnRrAAAA4ouqvQAShNErLOK3o5Dtu4zHAhbccdiHJL-lYK8rvrSul5u7moawjrkrTQUTe-fpkjayjCaPu_H1Wo0adqKjJ_3ct6d6Svr_jo1poOM2YOjlIMPrfbwuPKXn9CypX4GhSyabU7TmL6-mGOlzjvB_YBIQEppXyulJ0PEOHi-imzSjyBoU3n38Fi2CtMGrOyHUJ2xK5YwSiO8
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Förderkreis Rettet die Nikolaikirche e.V.
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CpQBiwAAACDxvsev97fpVGE0az-7oRDa-qzsFUkvuNFTjkYRTLEZqXwlQNkdJfN6znPFDAqv9KqFRCzXWpQeYla-3Kqzjqp5odvEV8xsaHfOgHXe1nkmxoADThifgTzpxGvVe14QnKWk0ZlS5Y_fqyR1NyN3sUx12YLEWHkIrEW3P_25s122MMO3mHhwTlOvJbsEUQ32aRIQj3QU-uY33FyQ2_HQ6ylt7hoUhoqrr35I8jc4q30AdiS5XYArzK4
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : St. Nikolai Memorial
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CoQBdQAAAL3Wyd9KVNu_iRJJOi12l4QoL11-LSCvXY4tKMned0fPZiMRM3UOKzK1-iNw12ymaebXMpydBYAmtASubRSJ9eJjwSeVWa5Jh6ZbomhDXmj9JqVWoJ3mw_xl4eOHddo6-VnAvrR3egSyqXoA5cu1HPbnVpOd_QiGJwo1N6XvX3ADEhAcSrTY-6G4LAf7etV7C-KUGhRa-yoj8xnq5qPRee8U0hAN7bHgSw
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Asian Bamboo AG Bambus
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CoQBeAAAALuwKh8ao6DKF4f6DoUeNO94dvA7ipSvqc813WyegXsTY0ReOlX7zczDP8WAo88FEJP446ftAHmNsJ7W8MF0XQF_ZFnDDMhVJzGqyuEIadYmRt05x0uJwAiIU80Gk89kINP36UPRFkctazzA5pk4Ko2dcs-R2EQBKd4xpqT74i3nEhBpQXR20dq97whSeU9PAspYGhSUcDeyGrea9Ti3G6c-MDNghoi8nw
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Sofitel Hamburg Alter Wall
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CoQBewAAAJgdxuHIvSCMBQ1ImHOiBqt84_O6lQ2eqpwP-p9sCE_YvgIImMlEPpo0-1W4Vh-wZIWXPRn_j1RALc2yk-ONuNIuneKNmynE-_r2lxQzF8qFq_Ap8nziEF1hCKYJjeibQtRCJO1jNHjNSs_QensNOS-zCAv6p7pZlosoFZ04_EYvEhDcWipVp0X5Clf2DKe04P77GhRyARMi6zRa0Wk_HSrFvbM4pk0uVg
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Die Hamburger Getreidebörse Verein der Getreidehändler der Hamburger Börse e.V. (VdG e.V.)
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CsQBwAAAALtBIzpl8mOMM99rvvOGW5EKTGRHkeueDYhcbCHbQOrAONLz1d6O89568UEDQVWJJrnN-I1U9B7F3aKzg8AYeTnIM7bPh1XfE396NzPVL847WKLqzl0b8Io8sB9gpNXbSRoaAxd0--tIKd8egr4ESu-YYdty0q_lgInTxy70A4EBu8mV-VHNFUr3hJtV-XCkumidfbOEyp2Hsn5DwnXzRDMpROcW5rZVzjyF_FhtkgNtv0ovqSfYhOBo86fiqHkKUxIQbnRWo2OkiMA5tGqOKGCw0BoUhNEcsyxfJsrBt0GW4OO2ZEY9SH0
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Fitness First
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CnRuAAAAI9zzaGTvhnai5iJGA1E7Psa0rfm7PgaqKjDQmasDiuIMDDYA_5fBcT2E5ZfkSzIhtzyAi0IMWz5LaAHEiGLxPUeeuih-ukMsBVoxH-dtx4K2MFwKoFUHP7va3rbdQGIjQyJkFZz2A8Ohc5sVwZGcoxIQk57rlkghyechP0gQZbQ7fxoUqA1In410YzDlVs9YdQsCAq6_4Lk
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Deutsche Bank Investment & FinanzCenter
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CpQBiAAAAGC197H6KtYQzWjmeLftfhU1Syo5rfuFSysmEznAxAylNdf2PhjNuqPoBM61Uf1LN6i0iMZIyuAVv7Mmuwl7qsbfRVMFfAdaarSbg4iJ-3SOY8ftUNKfrdk5k_aaBlyDHklLka7iDK-Qe5nmfXigZ8HAZagvjubpyDNrf7_i5jcOd8DqWArDVoDFQkumH8jjtRIQ8I9a3nX_YdV4r1hhoY7tnRoUz_p71nEGOYsUh02fC3LSJFxzx-M
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Friseur Haarverlängerung Andriske Hamburg
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CpQBjAAAAB2-Vlya_KnatYCT1V5OLnkE1PxIwSIJG8Ylz17n61FdXKHHGfmK2GYctIUitwPkyBh4zaUJ80veB6fPgkj41e_2RsNKMawmvq0-lH5WataHkveipTbioKg0Qt88qZrTC0M7YpfJbpM8T7pEQIm0T4ug2MwNVDPRpd1KP556uhd325YoOkLgPIeIDmFErenE5hIQciRpV9f9BCfk76HUqlzKnRoU50baFpNoa7AQeXJvCdEHm3zxy-A
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Handelskammer Hamburg
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CoQBdgAAAGAkINdRN0MBT1un722m_grrUvPMWX_fgN6N90Io7jJXam487CilkpsO-JatbgU05bVlN2xSGW_1u2fIcWjeFttF1MCfxSRV_Dx5XfEHXYBgBi2WDTbDbQwvtOvvj6Fc90PNtGbeHu6KNYp2dm_UFSqR6umISDC2jgT_0ebv8o4hEhAb0OFluC2HVGjwhxK6Bk2AGhSOeMrpebxhxW3_Z3Xi8bB5td_7ng
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Deutsche Bundesbank Hauptverwaltung u. Filiale
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CpQBjwAAAJ4h9I7wMR3LnMhUYqZwfhVF5QWkGSrclgHtiwIRGXBsjh3j_KF7jgqmax1LrB4me8oakg8Y_rrxiOMThyddZE83zIknG8sMnTgocUcwdydTYQk9L19oQwnJMh-jy4X1XzcFvEFbIgRoZIQej5H5EifU-qHJLUJtSZ5lCHbOh23pRDPKzOuA_A9oTTf2ovARUBIQTd6TVFB4bvc3G7LwTmWfgBoUCIxqU5NZMSuVrhNNnaHEi4PoH5k
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Bistro Am Alten Wall
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CoQBdQAAAMcueOQ5Ov_AQ2qOQb3Ul-0U0eW5nvmrRBAUHlHTeZG1G-OnCcKiwd1awi-C6xRmQ8ltzzYO-nBZodkMicpJuwyqofjtI2EdbvLOpFKnRUctK-ozC1bN9Mk_5ikE65wWn_7cMp4b8QeA7A9jwAUACkplkpQ-UioKU1Bu7xQDmj7tEhB988-mg9RgvnHqbeKen5uBGhRWTU9sG5Z98MBj7re8QKJE3NTXgQ
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Sylter Milchbar
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CnRwAAAAiac3Ty6FxAjnas-tDCRk6RIoFlpQ7WKPp9lC1mbKZxnm7axc5hyuUWOzP-jicUbi3Mo_TnyXfZZle4JgFts5ZiG-bZhnLK38qItUpIfB5YkwpmcX_MELBJ6SMfenw6rYkqtbSG7QvGQS7AMxICgPPhIQBgkKSgvMFcmIgKYv4u7INxoUeJ6x-rw5CEc6AGmjDdxjMkqlu2g
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Dr. C. Gehlhoff-Weiser
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CoQBdwAAALkN44nWo5qI4f7g7xVugr7rH2bEgf8WGODK11JkROh6UJSDGj5m_jiStqwFG7bp0537HkSRWbQlGWmBRk7APqZ69i7f1CD9QmPoU9OoiSV3ide99QY5pLvMpvTQ-Cfz4ubakV1Vs9eKETZGk_491MGbsq5lHl0PBC1lJpnrvkl4EhBK9mSE6ZAhaNvmYGjUcw7mGhQ14FQ_mIzOxJLZyoWaHeeV1GrYgg
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Herr Prof. Dr. med. Michael Albrecht
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CpQBhQAAABLD0xJc4xOVPOm8QrNrqDeZKtyB6tQNMCg7nnlJ7i73NHpDpp8AzQcXGenCj9JnZcHYuWtKRyrlDySBxS3UWI8kWjB6Id2Xj7IjDAZgTtN6l0B4MvS_8AWjmC5c7v5vofzwU4X-FZnWQtHpU22M0INQzS5t19ljvgNd1_UtkQ7DIYahedj41V0xN2YLXCJ0_hIQmOjm-ChQTf6YGl8cf7gkvxoUMXQKZfXPfi82v-0m82mVgaCarJ8
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Butlers Filiale
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CnRwAAAAo9viaAauYkCy_yKgVgL8Bx_94WL0vNcqQ5q8kCpMCqAGcOtjTxkrD8HGigMaSZJ7ZL0jrA3LE5laqwKI_6AcomADmAs3gu4h2g9nh9p4v5CQdtZlllZXKNNeslKEltJxWhUmF1utT1fTAuKbBF0FaRIQzvxjd-fjJfw3Vl1KWSOptRoUjYdcHUflUCqiLnzKZL8vkO0qe0M
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Souper Salad
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CnRtAAAAuQ8HinErA-G6caR9AA4W4M1x4FxP-kgZboY3ExxPT9seEjCVMhDmwKpeXhxyiKm9iZHfmIdSjZUX71jJuRKZtOX8ZqSLq8_B4IkW-4Hp1RJbWhOrqcfyTU3b8UFHBTWrMpHbdJIwHJCQHQhu_hGXeBIQMvFHCMTZM5FY1pQz-gwKMRoUsr_7v9hb1AliA59tKa1Ph7odY_4
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Starbucks
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CnRrAAAA15vLiwrfxBqrsPqdLT1MAZuo8C1Zp6yGv5frA5vZDgbkxhXzybxNDSrmm7M50M3ckGjAXsmJA8mTjil9m2iAVcUv536YPbxkBnK-5Y5aQHJmWJWXv-cIvP_5i5gGQ3euCU4PKiIUHZxPfEij1V3u2xIQXlibpKSc70ynpcDxzmMnUxoUaBNpJ9ESnfUxJww7bU3K89Oenp8
+17:32:19,351 DEBUG GoogleServiceBase:83 - place found Name : Neustadt
+17:32:19,351 DEBUG GoogleServiceBase:84 - place found reference : CpQBhQAAAPhM4jY7txsACC4xqK8H9HPjp5AUnyTFP40F1G67IzYqfYmQO7zGTBljawAjFvWw4TkA6uHzvE_Oydk6L1vr4Rb9FaKyqcRQuBG6PAXXo7-3mb17rjTtbHDz2wq-8XFClM-hFsia1yYnBQPpcABlhyPfAmJPy4qJGtKUaI0CrHD1D02lzDEaummSK-tpyTEwXxIQAm7JC6zjviugMpRXrVn3IRoUfUCQ276M23cyBYepDlJAgZ9dYig
+17:32:19,351 DEBUG GoogleServiceBase:86 - Get WaySteps. Start : 53.54834  9.988822 End : 53.545471 9.984273
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.548210,9.988615--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.548080,9.988408--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547950,9.988201--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547820,9.987994--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547690,9.987787--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547560,9.987580--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547430,9.987373--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547300,9.987166--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547170,9.986959--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.547040,9.986752--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.546910,9.986545--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.546780,9.986338--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.546650,9.986131--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.546520,9.985924--
+17:32:19,351 DEBUG GoogleServiceBase:118 - 53.546390,9.985717--
+17:32:19,368 DEBUG GoogleServiceBase:118 - 53.546260,9.985510--
+17:32:19,368 DEBUG GoogleServiceBase:118 - 53.546130,9.985303--
+17:32:19,368 DEBUG GoogleServiceBase:118 - 53.546000,9.985096--
+17:32:19,368 DEBUG GoogleServiceBase:118 - 53.545870,9.984889--
+17:32:19,368 DEBUG GoogleServiceBase:118 - 53.545740,9.984682--
+17:32:19,368 DEBUG GoogleServiceBase:118 - 53.545610,9.984475--

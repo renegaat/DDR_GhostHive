@@ -45,7 +45,7 @@ public class GhostHiveServiceImpl implements GhostHiveService{
 			}
 		}
 		return returnList;
-	}	
+	}		
 
 	@RequestMapping(method= RequestMethod.GET,value="/getSimpleGhostById/{id}",produces="application/json")
 	public @ResponseBody SimpleGhost  getGhostById(@PathVariable int id) {		
@@ -63,14 +63,14 @@ public class GhostHiveServiceImpl implements GhostHiveService{
 		java.util.List<SimpleLocation> returnList =  new ArrayList<SimpleLocation>();
 		
 		java.util.List<Location> locationList = locationService.listLocation();
-		if(locationList!=null){
+		if(locationList!=null){		
 			for(Location indexLocation : locationList){
 				returnList.add(new SimpleLocation(indexLocation));
 			}
 		}
 		
 		return returnList;
-	}
+	}	
 
 	
 	@Override

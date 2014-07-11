@@ -45,6 +45,7 @@ public class LocationUtility {
 	}
 
 
+	
 	// get a random Location . Reference Point is location. Water is ignored 
 	public static Location getRandomPoint(Location location){
 		 
@@ -78,7 +79,7 @@ public class LocationUtility {
 		return resultLocation; 
 	}
 
-
+	
 	// get shortsteps for the ghost to move from a to b.  the steps are WAYPOINTMAXDISTANCE apart
 	public static List<Location> getWaySteps(String startLatitude,String startLongitude,String endLatitude,String endLongitude){
 	
