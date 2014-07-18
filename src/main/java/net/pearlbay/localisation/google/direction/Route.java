@@ -16,4 +16,12 @@ public class Route {
 	public void setRoute(List<Location> route) {
 		this.route = route;
 	}
+
+	public Location getRouteStart(){
+		return this.route != null ? (Location)this.route.get(0) : null ;
+	}
+	
+	public Location getRouteEnd(){
+		return this.route != null ? (Location)this.route.get(this.route.size()) : null ;
+	}
 }
