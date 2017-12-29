@@ -64,7 +64,6 @@ public class HivePuls {
 		GhostThread(Ghost ghost) {
 			this.ghost = ghost;
 		}
-		@Override
 		public void run() {
 			boolean run = true;
 			int routeIndex = 0;
