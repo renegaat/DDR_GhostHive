@@ -25,7 +25,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class HivePuls {
 	
-	public Logger logger = LoggerFactory.getLogger(HivePuls.class);
+	private Logger logger = LoggerFactory.getLogger(HivePuls.class);
 	
 	@Autowired
 	private GhostService ghostService;
@@ -52,10 +52,10 @@ public class HivePuls {
 		List<Ghost> ghostList = ghostService.listGhost();
 		ExecutorService executor = Executors.newFixedThreadPool(ghostList.size());
 
-		for (int i = 0; i < ghostList.size(); i++) {
-			Runnable worker = new GhostThread((Ghost)ghostList.get(i));
-			executor.execute(worker);
-		}		
+        for (Ghost aGhostList : ghostList) {
+            Runnable worker = new GhostThread(aGhostList);
+            executor.execute(worker);
+        }
 	}
 
 	public  class GhostThread implements Runnable {
@@ -106,7 +106,7 @@ public class HivePuls {
 						
 						List<Location> testList = locationService.getCloseLocations(ghost.getLocationTo());
 						//persist new rich location if there is non close by
-						if(testList.size()==1){
+						if(testList.size() == 1){
 							locationService.addRichLocation(ghost.getLocationAt());
 							logger.debug("Ghost " + ghost.getId() + " rich location added id : " + ghost.getLocationAt().getId());
 						}
@@ -129,7 +129,7 @@ public class HivePuls {
 							ghost.setLocationTo(newLocation);
 						}else{
 							//snap to known location
-							ghost.setLocationTo((Location)testList.get(0));
+							ghost.setLocationTo(testList.get(0));
 						}						
 						
 						logger.debug("Ghost " + ghost.getId() + " new Destination : " + ghost.getLocationTo().getLatitude() +" ," +  ghost.getLocationTo().getLongitude());

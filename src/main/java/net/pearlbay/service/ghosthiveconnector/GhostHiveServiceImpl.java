@@ -49,7 +49,7 @@ public class GhostHiveServiceImpl implements GhostHiveService{
 
 	@RequestMapping(method= RequestMethod.GET,value="/getSimpleGhostById/{id}",produces="application/json")
 	public @ResponseBody SimpleGhost  getGhostById(@PathVariable int id) {		
-		SimpleGhost resultGhost = new  SimpleGhost(ghostService.getGhost(id));		
+		SimpleGhost resultGhost = new  SimpleGhost(ghostService.retrieveGhost(id));
 		return  resultGhost;
 	}	
 
@@ -73,8 +73,7 @@ public class GhostHiveServiceImpl implements GhostHiveService{
 	}	
 
 	
-	@Override
-	@RequestMapping(method= RequestMethod.GET,value="/getAllSimpleHives",produces="application/json")
+	@RequestMapping(method= RequestMethod.GET, value="/getAllSimpleHives", produces="application/json")
 	public @ResponseBody List<SimpleHive> getAllSimpleHives() {
 		java.util.List<SimpleHive> returnList =  new ArrayList<SimpleHive>();
 		java.util.List<Hive> hiveList = hiveService.listHive();

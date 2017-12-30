@@ -12,28 +12,23 @@ import org.springframework.stereotype.Service;
 public class GhostServiceImpl implements GhostService {
 
 	@Autowired GhostDAO ghostDao;
-	
-	@Override
+
 	public void addGhost(Ghost ghost) {
 		ghostDao.addGhost(ghost);
 	}
 
-	@Override
 	public List<Ghost> listGhost() {
-		return ghostDao.listGhost();
+		return ghostDao.listGhosts();
 	}
 
-	@Override
 	public void removeGhost(Integer id) {
 		ghostDao.removeGhost(id);
 	}
 
-	@Override
-	public Ghost getGhost(Integer id) {
+	public Ghost retrieveGhost(Integer id) {
 			return ghostDao.getGhost(id);
 	}
 
-	@Override
 	public void mergeGhost(Ghost ghost) {
 		ghostDao.mergeGhost(ghost);
 	}

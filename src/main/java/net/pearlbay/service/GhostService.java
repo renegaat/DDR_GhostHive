@@ -5,10 +5,10 @@ import java.util.List;
 import net.pearlbay.model.ghost.Ghost;
 
 public interface GhostService {
-	public void addGhost(Ghost ghost);
-    public List<Ghost> listGhost();
-    public void removeGhost(Integer id);	
-    public Ghost getGhost(Integer id);	
-    public void mergeGhost(Ghost ghost);	
+	void addGhost(Ghost ghost);
+    List<Ghost> listGhost();
+    void removeGhost(Integer id);
+    Ghost retrieveGhost(Integer id);
+    void mergeGhost(Ghost ghost);
  
 }
