@@ -33,7 +33,6 @@ public class LocationDAOImpl implements LocationDAO {
 		sessionFactory.getCurrentSession().save(Location);
 	}
 	
-	@SuppressWarnings("unchecked")
 	public List<Location> listLocation() {
         return sessionFactory.getCurrentSession().createQuery("from Location").list();
 	}
@@ -52,7 +51,6 @@ public class LocationDAOImpl implements LocationDAO {
 
  	
 	@SuppressWarnings("unchecked")
-	@Override
 	public List<Location> getCloseLocations(Location location) {
 	
 		StringBuffer queryString =  new StringBuffer();	
