@@ -26,7 +26,10 @@ public class LocationUtility {
 	final static int RNDMMAXDISTANCE = 1500;
 	//waypoint max distance
 	final static int WAYPOINTMAXDISTANCE = 20;
-	
+
+
+	private LocationUtility() { }
+
 	// return distance between two locations
 	public static double calcDistance(Location startpoint ,Location endpoint){
 		
@@ -100,7 +103,7 @@ public class LocationUtility {
 			return resultList;
 		}
 
-		// calculatge the number of points to be inserte, we dont have to be 100% correct here 
+		// calculatge the number of points to be inserted, we dont have to be 100% correct here.
 		int numberOfPoints = (int) (distance / WAYPOINTMAXDISTANCE);
 		//get map angle from startpoint to endpoint 
 	

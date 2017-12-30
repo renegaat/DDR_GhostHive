@@ -18,7 +18,6 @@ import javax.persistence.Table;
 
 import net.pearlbay.model.hive.Hive;
 
-import org.codehaus.jackson.annotate.JsonManagedReference;
 
 
 @Entity
